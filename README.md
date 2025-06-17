@@ -1,3 +1,5 @@
+## **🚧 PROJECT CURRENTLY IN DEVELOPMENT. EVERYTHING IS SUBJECT TO CHANGE. 🚧**
+
 # Cinch
 
 **A Basic Programming Language Designed for Simplicity and Ease**
